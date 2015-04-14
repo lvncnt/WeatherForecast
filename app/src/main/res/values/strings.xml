@@ -2,10 +2,23 @@
 
     <string name="app_name">SunShine</string>
     <string name="action_settings">Settings</string>
-
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
     <string name="action_refresh" translatable="false">Refresh</string>
+
     <string name="pref_location_label">Location</string>
     <string name="pref_location_key" translatable="false">location</string>
     <string name="pref_location_default" translatable="false">06120</string>
+
+    <string name="title_activity_detail">Weather Detail</string>
+
+    <string name="pref_temperature_unit_label">Units</string>
+    <string name="pref_temperature_unit_key" translatable="false">units</string>
+
+    <string name="pref_temperature_unit_label_metric">Celsius</string>
+    <string name="pref_temperature_unit_label_imperial">Fahrenheit</string>
+    <string name="pref_temperature_unit_metric" translatable="false">metric</string>
+    <string name="pref_temperature_unit_imperial" translatable="false">imperial</string>
+    <string name="hello_world">Hello World</string>
 
 </resources>
